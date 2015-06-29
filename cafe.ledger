@@ -1,3 +1,5 @@
+D 1 EUR
+
 2015/06/29 Inventur
 	Erlöse:Verkauft  	-64 EUR
 	Barkasse		64 EUR
@@ -22,8 +24,6 @@
 	Bestand:Suess  =		3 EUR
 	Verbrauch:Suess
 
-
 2015/06/29 Verbrauch Kaffee
 	Bestand:Kaffee	=	15 EUR
 	Verbrauch:Kaffee
-
