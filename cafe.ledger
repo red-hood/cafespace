@@ -1,0 +1,29 @@
+2015/06/29 Inventur
+	Erlöse:Verkauft  	-64 EUR
+	Barkasse		64 EUR
+
+2015/06/29 Inventur
+	Verbindlichkeiten	-2.50 EUR
+	Barkasse
+
+2015/06/29 Kauf Qijote
+	Ausgaben:Kaffee		-53.20 EUR
+	Bestand:Kaffee
+
+2015/06/29 Kauf Vino
+	Ausgaben:Kaffee		-20 EUR
+	Bestand:Kaffee
+
+2015/06/29 Kauf Suesskram
+	Ausgaben:Suess		-10 EUR
+	Bestand:Suess
+
+2015/06/29
+	Bestand:Suess  =		3 EUR
+	Verbrauch:Suess
+
+
+2015/06/29 Verbrauch Kaffee
+	Bestand:Kaffee	=	15 EUR
+	Verbrauch:Kaffee
+
