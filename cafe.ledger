@@ -1,11 +1,15 @@
 D 1 EUR
 
-2015/06/29 Inventur
-	Erlöse:Verkauft  	-64 EUR
-	Barkasse		64 EUR
+2015/06/29 Einlage
+	Personen:Christian	- 103.20
+	Einlagen:Christian
 
 2015/06/29 Inventur
-	Forderungen -2.50 EUR
+	Barkasse		-64 EUR
+	Erlöse:Verkauft  	
+
+2015/06/29 Inventur
+	Forderungen		-2.50 EUR
 	Barkasse
 
 2015/06/29 Kauf Qijote
@@ -27,3 +31,19 @@ D 1 EUR
 2015/06/29 Verbrauch Kaffee
 	Bestand:Kaffee	=	15 EUR
 	Verbrauch:Kaffee
+
+2015/07/15 Inventur
+	Bestand:Kaffee	= 	10 EUR
+	Verbrauch:Kaffee	
+
+2015/07/15 Barkasse
+	Barkasse		-15 EUR
+	Erlöse:Verkauft	
+
+2015/07/15 Kauf Milchkann/Fettloeser
+	Ausgaben:Zubehör	-20 EUR
+	Bestand:Zubehör
+
+2015/07/15 Entnahme
+	Einlagen:Christian		- 60EUR
+	Personen:Christian
