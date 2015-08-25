@@ -47,3 +47,19 @@ D 1 EUR
 2015/07/15 Entnahme
 	Einlagen:Christian		- 60EUR
 	Personen:Christian
+
+2015/08/01 Erwerb Kaffee
+	Ausgaben:Kaffee		-10 EUR
+	Bestand:Kaffee
+
+2015/08/25 Entnahme
+	Einlagen:Christian		- 45EUR
+	Personen:Christian
+
+2015/08/25 Inventur
+	Bestand:Kaffee 	= 0 EUR
+	Verbrauch:Kaffee
+
+2015/08/25 Barkasse
+	Barkasse	-10EUR
+	Erlöse:Verkauft
